@@ -1,6 +1,6 @@
 # Projet 2
 
-#### :alarm_clock: [Date de remise le mardi 17 juin 2021 à 23h59](https://www.timeanddate.com/countdown/generic?iso=20210617T2359&p0=165&msg=Remise+Projet+2&font=sanserif&csz=1)
+#### :alarm_clock: [Date de remise le jeudi 17 juin 2021 à 23h59](https://www.timeanddate.com/countdown/generic?iso=20210617T2359&p0=165&msg=Remise+Projet+2&font=sanserif&csz=1)
 
 ## Objectif
 
