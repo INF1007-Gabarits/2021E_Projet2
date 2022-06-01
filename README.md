@@ -1,6 +1,6 @@
 # Projet 2
 
-#### :alarm_clock: [Date de remise le jeudi 17 juin 2021 à 23h59](https://www.timeanddate.com/countdown/generic?iso=20210617T2359&p0=165&msg=Remise+Projet+2&font=sanserif&csz=1)
+#### :alarm_clock: [Date de remise le dimanche 19 juin 2022 à 23h59]
 
 ## Objectif
 
@@ -43,18 +43,6 @@ python tests.py
 En tant que joueuse professionnelle d'Animal Crossing, je cherche à mettre au point un système qui me permet de gérer mon armoire de vêtements, notamment mes chaussures, mes pantalons et mes chandails.
 
 ![acnh](./ressources/clothes-animal-crossing.jpg)
-
-## Qualité de code
-
-N'oubliez pas de typer les entrées et les sorties des fonctions que vous écrivez, comme dans le TP2 :)
-
-Ex:
-
-```python
-def maFonction(entreeA: int, entreeB: str, entreeC: bool) -> int:
-    # faire qqch
-    return 0
-```
 
 ## Partie 1 - Dataframes
 
