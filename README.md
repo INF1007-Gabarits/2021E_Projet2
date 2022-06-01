@@ -21,12 +21,6 @@ N'oubliez pas de jeter un oeil aux erreurs courantes de qualité de code dans le
 Pour ce TP, on aura besoin de la librairie pandas, qui est utilisée pour tout ce qui concerne les dataframes. On peut l'installer en roulant la commande:
 
 ```cmd
-conda install pandas
-```
-
-OU
-
-```cmd
 pip install pandas
 ```
 
